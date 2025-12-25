@@ -1,0 +1,25 @@
+создаем папки и гитигнор в гитигноре obj/ bin/ .vs/ *.user/
+git init
+git config —local user.name “” 
+git config —l user.email “”
+git config list
+git add .
+git commit -m “Создание структуры проекта и добавление .gitignore
+Создание ветки git checkout -b develope и комитет проверки
+Заходим в гитхаб и подключаем удаленный репозиторий 
+        git push -u origin название ветки
+Cd app 
+dotnet new console
+создание метода для моделирование алгоритма после этого комит
+создание валидации и ввода и после этого комит
+Перехожу в drawing и рисую диаграмму активности и загружаю в папку doc
+Dotnet new xunit
+Создаю в папке doc описание теста
+Пишу сам тест
+Делаю коммит
+После этого делаю push
+Захожу в actions и пишу пайплайн в ветке develop
+git pull origin develop
+Добавляю в папку doc файл smells 
+Добавляю папку reliability_analysis.txt
+Делаю push
