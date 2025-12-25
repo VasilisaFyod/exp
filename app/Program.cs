@@ -19,7 +19,7 @@ public class Simulation
     public void Run()
     {
         Input();
-        SimualtionSolution();
+        SimualtionSolution();//cvv
     }
 
     private void Input()
